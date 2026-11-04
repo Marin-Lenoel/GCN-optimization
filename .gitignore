@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Experiment outputs
+results/*.db
+results/*.json
+
+# Large data files
+data/*.h5
+data/*.npy
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
